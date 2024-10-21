@@ -1,1 +1,2 @@
-# mgd_machine_inte_backend
+# magod-production-backend
+Magod Production Module Backend Nodejs Code
